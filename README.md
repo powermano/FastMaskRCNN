@@ -1,6 +1,6 @@
 # Mask RCNN
 Mask RCNN in TensorFlow
-
+git clone
 This repo attempts to reproduce this amazing work by Kaiming He et al. : 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 
